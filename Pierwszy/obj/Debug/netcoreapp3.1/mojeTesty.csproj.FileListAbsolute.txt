@@ -1,0 +1,11 @@
+/home/ola/codecool/mojeTesty/Pierwszy/bin/Debug/netcoreapp3.1/mojeTesty
+/home/ola/codecool/mojeTesty/Pierwszy/bin/Debug/netcoreapp3.1/mojeTesty.deps.json
+/home/ola/codecool/mojeTesty/Pierwszy/bin/Debug/netcoreapp3.1/mojeTesty.runtimeconfig.json
+/home/ola/codecool/mojeTesty/Pierwszy/bin/Debug/netcoreapp3.1/mojeTesty.runtimeconfig.dev.json
+/home/ola/codecool/mojeTesty/Pierwszy/bin/Debug/netcoreapp3.1/mojeTesty.dll
+/home/ola/codecool/mojeTesty/Pierwszy/bin/Debug/netcoreapp3.1/mojeTesty.pdb
+/home/ola/codecool/mojeTesty/Pierwszy/obj/Debug/netcoreapp3.1/mojeTesty.csprojAssemblyReference.cache
+/home/ola/codecool/mojeTesty/Pierwszy/obj/Debug/netcoreapp3.1/mojeTesty.AssemblyInfoInputs.cache
+/home/ola/codecool/mojeTesty/Pierwszy/obj/Debug/netcoreapp3.1/mojeTesty.AssemblyInfo.cs
+/home/ola/codecool/mojeTesty/Pierwszy/obj/Debug/netcoreapp3.1/mojeTesty.dll
+/home/ola/codecool/mojeTesty/Pierwszy/obj/Debug/netcoreapp3.1/mojeTesty.pdb
